@@ -2187,7 +2187,7 @@ body.sticky .sticky-menu {
   margin-bottom: 1.875rem;
 }
 .line-shape1:before {
-  /* background-image: url(../images/line-shape1.png); */
+  background-image: url(../images/line-shape1.png);
   width: 4.375rem;
 }
 .title-wrap:before {
@@ -2370,10 +2370,10 @@ body.sticky .sticky-menu {
   left: 3.75rem;
   top: 8.5px;
 }
-/* .black-shp:before {background-image: url(../images/line-mini-shape1.png);}
-.thm-shp:before {background-image: url(../images/line-mini-shape2.png);}
-.scndry-shp:before {background-image: url(../images/line-mini-shape4.png);}
-.thm-shp.v2:before {background-image: url(../images/line-mini-shape3.png);} */
+  /* .black-shp:before {background-image: url(../images/line-mini-shape1.png);}
+  .thm-shp:before {background-image: url(../images/line-mini-shape2.png);}
+  .scndry-shp:before {background-image: url(../images/line-mini-shape4.png);}
+  .thm-shp.v2:before {background-image: url(../images/line-mini-shape3.png);} */
 .sec-title-inner > span + h2 {margin-top: 8px;}
 .sec-title-inner > h3 {
   font-size: 2.25rem;
@@ -5190,7 +5190,7 @@ ol.breadcrumb li.breadcrumb-item + li.breadcrumb-item:before {
   border-radius: 50%;
   left: 3.75rem;
 }
-/* .thm-shp:before {background-image: url(../images/line-mini-shape2.png);} */
+.thm-shp:before {background-image: url(../images/line-mini-shape2.png);}
 .tit-shp:before {
   width: 3.125rem;
   height: 6px;
@@ -5721,7 +5721,7 @@ figure > a {
   background-size: cover;
   background-position: center;
   left: 0;
-  /* background-image: url(../images/line-mini-shape2.png); */
+  background-image: url(../images/line-mini-shape2.png);
   height: 6px;
   position: absolute;
 }
@@ -5861,7 +5861,7 @@ figure > a {
   left: 0;
   background-size: cover;
   background-position: center;
-  /* background-image: url(../images/line-mini-shape2.png); */
+  background-image: url(../images/line-mini-shape2.png);
   bottom: 0;
 }
 .team-detail-info:before {
