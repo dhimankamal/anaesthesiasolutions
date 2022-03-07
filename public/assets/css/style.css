@@ -2370,10 +2370,10 @@ body.sticky .sticky-menu {
   left: 3.75rem;
   top: 8.5px;
 }
-  /* .black-shp:before {background-image: url(../images/line-mini-shape1.png);}
-  .thm-shp:before {background-image: url(../images/line-mini-shape2.png);}
-  .scndry-shp:before {background-image: url(../images/line-mini-shape4.png);}
-  .thm-shp.v2:before {background-image: url(../images/line-mini-shape3.png);} */
+.black-shp:before {background-image: url(../images/line-mini-shape1.png);}
+.thm-shp:before {background-image: url(../images/line-mini-shape2.png);}
+.scndry-shp:before {background-image: url(../images/line-mini-shape4.png);}
+.thm-shp.v2:before {background-image: url(../images/line-mini-shape3.png);}
 .sec-title-inner > span + h2 {margin-top: 8px;}
 .sec-title-inner > h3 {
   font-size: 2.25rem;
