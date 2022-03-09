@@ -171,8 +171,7 @@
 strong {font-weight: 600;}
 
 /*===== General Styling =====*/
-body, 
-html {overflow-x: hidden;}
+
 body {
   margin: 0;
   font-family: Arimo;
