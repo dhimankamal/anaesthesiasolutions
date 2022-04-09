@@ -468,7 +468,8 @@
                 </div><!-- Specials Wrap -->
             </div>
         </section>
-        <?php include('./components/footer.php') ?>
+        <?php include('./components/footer.php');  ?>
+
     </main><!-- Main Wrapper -->
 
     <?php include('./components/scripts.php') ?>

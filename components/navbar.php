@@ -1,8 +1,9 @@
+   <?php include('./components/common.php');  ?> 
 <header class="style2 w-100">
             <div class="topbar scndry-bg w-100">
                 <div class="container">
                     <div class="topbar-inner d-flex flex-wrap align-items-center justify-content-between w-100">
-                        <p class="mb-0">Visit Us Daily from 8.00 AM to 6.00 PM</p>
+                        <p class="mb-0">Visit Us Daily from <?php echo $Time?> </p>
                         <div class="topbar-right d-inline-flex align-items-center flex-wrap">
                             <div class="social-links d-inline-flex">
                                 <span class="d-inline-block">Follow Us:</span>
@@ -29,7 +30,7 @@
                                 </ul>
                             </div>
                             <div class="header-right d-inline-flex flex-wrap align-items-center">
-                                <div class="header-contact position-relative text-color1"><i class="flaticon-telephone thm-clr position-absolute"></i>+1 (202) 588-6500</div>
+                                <div class="header-contact position-relative text-color1"><i class="flaticon-telephone thm-clr position-absolute"></i><?php echo $Phone ; ?></div>
                                 <a class="thm-btn v2 thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="appointment.html" title=""><i class="flaticon-calendar"></i>Make An Appointment</a>
                             </div>
                         </nav><!-- Navigation -->
