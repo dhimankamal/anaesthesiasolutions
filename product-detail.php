@@ -13,9 +13,9 @@
                             <div class="page-title-inner d-inline-block">
                                 <h1 class="mb-0">Killer Of Depression</h1>
                                 <ol class="breadcrumb mb-0 justify-content-center">
-                                    <li class="breadcrumb-item"><a href="index.html" title="">Home</a></li>
-                                    <li class="breadcrumb-item"><a href="products.html" title="">Product Page</a></li>
-                                    <li class="breadcrumb-item active">Killer Of Depression</li>
+                                    <li class="breadcrumb-item"><a href="index.php" title="">Home</a></li>
+                                    <li class="breadcrumb-item"><a href="products.php" title="">Product Page</a></li>
+                                    <li class="breadcrumb-item">Killer Of Depression</li>
                                 </ol>
                             </div>
                         </div><!-- Page Title Wrap -->
@@ -127,23 +127,23 @@
                                             <h4 class="position-relative tit-shp thm-shp widget-title3">Popular Products</h4>
                                             <div class="mini-posts-wrap w-100">
                                                 <div class="mini-post-box d-flex flex-wrap align-items-center">
-                                                    <a class="brd-rd5 overflow-hidden" href="product-detail.html" title=""><img class="img-fluid" src="assets/images/resources/mini-product-img1-1.jpg" alt="Mini Product Image 1"></a>
+                                                    <a class="brd-rd5 overflow-hidden" href="product-detail.php" title=""><img class="img-fluid" src="assets/images/resources/mini-product-img1-1.jpg" alt="Mini Product Image 1"></a>
                                                     <div class="mini-post-info">
-                                                        <h5 class="mb-0"><a href="product-detail.html" title="">Dream Psychology</a></h5>
+                                                        <h5 class="mb-0"><a href="product-detail.php" title="">Dream Psychology</a></h5>
                                                         <span class="price scndry-clr d-block"><ins><small>$</small>85.00</ins><del><small>$</small>45.00</del></span>
                                                     </div>
                                                 </div>
                                                 <div class="mini-post-box d-flex flex-wrap align-items-center">
-                                                    <a class="brd-rd5 overflow-hidden" href="product-detail.html" title=""><img class="img-fluid" src="assets/images/resources/mini-product-img1-2.jpg" alt="Mini Product Image 2"></a>
+                                                    <a class="brd-rd5 overflow-hidden" href="product-detail.php" title=""><img class="img-fluid" src="assets/images/resources/mini-product-img1-2.jpg" alt="Mini Product Image 2"></a>
                                                     <div class="mini-post-info">
-                                                        <h5 class="mb-0"><a href="product-detail.html" title="">Killer of Depression</a></h5>
+                                                        <h5 class="mb-0"><a href="product-detail.php" title="">Killer of Depression</a></h5>
                                                         <span class="price scndry-clr d-block"><ins><small>$</small>50.00</ins><del><small>$</small>60.00</del></span>
                                                     </div>
                                                 </div>
                                                 <div class="mini-post-box d-flex flex-wrap align-items-center">
-                                                    <a class="brd-rd5 overflow-hidden" href="product-detail.html" title=""><img class="img-fluid" src="assets/images/resources/mini-product-img1-3.jpg" alt="Mini Product Image 3"></a>
+                                                    <a class="brd-rd5 overflow-hidden" href="product-detail.php" title=""><img class="img-fluid" src="assets/images/resources/mini-product-img1-3.jpg" alt="Mini Product Image 3"></a>
                                                     <div class="mini-post-info">
-                                                        <h5 class="mb-0"><a href="product-detail.html" title="">Thinking Fast</a></h5>
+                                                        <h5 class="mb-0"><a href="product-detail.php" title="">Thinking Fast</a></h5>
                                                         <span class="price scndry-clr d-block"><ins><small>$</small>25.00</ins><del><small>$</small>20.00</del></span>
                                                     </div>
                                                 </div>

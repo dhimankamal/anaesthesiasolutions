@@ -14,8 +14,8 @@
                         <div class="page-title-inner d-inline-block">
                             <h1 class="mb-0">About Us</h1>
                             <ol class="breadcrumb mb-0 justify-content-center">
-                                <li class="breadcrumb-item"><a href="index.html" title="">Home</a></li>
-                                <li class="breadcrumb-item active">About Us</li>
+                                <li class="breadcrumb-item"><a href="index.php" title="">Home</a></li>
+                                <li class="breadcrumb-item">About Us</li>
                             </ol>
                         </div>
                     </div><!-- Page Title Wrap -->
@@ -85,8 +85,8 @@
                                 <div class="find-thera-cap-inner">
                                     <h2 class="mb-0 text-color3">Our Clinic Largest Private Mental Health Partner, With a Carefully Selected Nationwide Team</h2>
                                     <div class="btns-group d-inline-flex flex-wrap align-items-center w-100">
-                                        <a class="thm-btn v2 bg-color5 brd-rd5 d-inline-block position-relative overflow-hidden" href="team.html" title="">Find A Therapist</a>
-                                        <a class="simple-link d-inline-block text-color3" href="contact.html" title="">CONTACT US NOW</a>
+                                        <a class="thm-btn v2 bg-color5 brd-rd5 d-inline-block position-relative overflow-hidden" href="team.php" title="">Find A Therapist</a>
+                                        <a class="simple-link d-inline-block text-color3" href="contact.php" title="">CONTACT US NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -119,7 +119,7 @@
                                         </div>
                                     </div>
                                     <div class="team-info z1 bg-color5 position-relative w-100">
-                                        <h3 class="mb-0"><a href="team-detail.html" title="">Dr. Mary Joe</a></h3>
+                                        <h3 class="mb-0"><a href="team-detail.php" title="">Dr. Mary Joe</a></h3>
                                         <span class="d-block thm-clr">Founder CEO</span>
                                     </div>
                                 </div>
@@ -136,7 +136,7 @@
                                         </div>
                                     </div>
                                     <div class="team-info z1 bg-color5 position-relative w-100">
-                                        <h3 class="mb-0"><a href="team-detail.html" title="">Dr. Kate Mrison</a></h3>
+                                        <h3 class="mb-0"><a href="team-detail.php" title="">Dr. Kate Mrison</a></h3>
                                         <span class="d-block thm-clr">Sr. Psychologist</span>
                                     </div>
                                 </div>
@@ -153,7 +153,7 @@
                                         </div>
                                     </div>
                                     <div class="team-info z1 bg-color5 position-relative w-100">
-                                        <h3 class="mb-0"><a href="team-detail.html" title="">Dr. Elianna Ed</a></h3>
+                                        <h3 class="mb-0"><a href="team-detail.php" title="">Dr. Elianna Ed</a></h3>
                                         <span class="d-block thm-clr">Sr. Psychologist</span>
                                     </div>
                                 </div>
@@ -170,7 +170,7 @@
                                         </div>
                                     </div>
                                     <div class="team-info z1 bg-color5 position-relative w-100">
-                                        <h3 class="mb-0"><a href="team-detail.html" title="">Dr. Charlie James</a></h3>
+                                        <h3 class="mb-0"><a href="team-detail.php" title="">Dr. Charlie James</a></h3>
                                         <span class="d-block thm-clr">Sr. Psychologist</span>
                                     </div>
                                 </div>
@@ -178,7 +178,7 @@
                         </div>
                     </div><!-- Team Wrap -->
                     <div class="view-more mt-60 d-inline-block text-center w-100">
-                        <p class="mb-0">Want to contact with Experts? Explore <a class="simple-link thm-clr d-inline-block" href="team.html" title="">More Psychiatrist</a> section.</p>
+                        <p class="mb-0">Want to contact with Experts? Explore <a class="simple-link thm-clr d-inline-block" href="team.php" title="">More Psychiatrist</a> section.</p>
                     </div><!-- View More -->
                 </div>
             </div>

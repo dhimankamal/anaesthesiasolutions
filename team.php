@@ -13,8 +13,8 @@
                             <div class="page-title-inner d-inline-block">
                                 <h1 class="mb-0">Psychiatrist Team</h1>
                                 <ol class="breadcrumb mb-0 justify-content-center">
-                                    <li class="breadcrumb-item"><a href="index.html" title="">Home</a></li>
-                                    <li class="breadcrumb-item active">Psychiatrist Team</li>
+                                    <li class="breadcrumb-item"><a href="index.php" title="">Home</a></li>
+                                    <li class="breadcrumb-item">Psychiatrist Team</li>
                                 </ol>
                             </div>
                         </div><!-- Page Title Wrap -->
@@ -38,7 +38,7 @@
                                             </div>
                                         </div>
                                         <div class="team-info z1 bg-color5 position-relative w-100">
-                                            <h3 class="mb-0"><a href="team-detail.html" title="">Dr. Mary Joe</a></h3>
+                                            <h3 class="mb-0"><a href="team-detail.php" title="">Dr. Mary Joe</a></h3>
                                             <span class="d-block thm-clr">Founder CEO</span>
                                         </div>
                                     </div>
@@ -55,7 +55,7 @@
                                             </div>
                                         </div>
                                         <div class="team-info z1 bg-color5 position-relative w-100">
-                                            <h3 class="mb-0"><a href="team-detail.html" title="">Dr. Kate Mrison</a></h3>
+                                            <h3 class="mb-0"><a href="team-detail.php" title="">Dr. Kate Mrison</a></h3>
                                             <span class="d-block thm-clr">Sr. Psychologist</span>
                                         </div>
                                     </div>
@@ -72,7 +72,7 @@
                                             </div>
                                         </div>
                                         <div class="team-info z1 bg-color5 position-relative w-100">
-                                            <h3 class="mb-0"><a href="team-detail.html" title="">Dr. Elianna Ed</a></h3>
+                                            <h3 class="mb-0"><a href="team-detail.php" title="">Dr. Elianna Ed</a></h3>
                                             <span class="d-block thm-clr">Sr. Psychologist</span>
                                         </div>
                                     </div>
@@ -89,7 +89,7 @@
                                             </div>
                                         </div>
                                         <div class="team-info z1 bg-color5 position-relative w-100">
-                                            <h3 class="mb-0"><a href="team-detail.html" title="">Dr. Charlie James</a></h3>
+                                            <h3 class="mb-0"><a href="team-detail.php" title="">Dr. Charlie James</a></h3>
                                             <span class="d-block thm-clr">Sr. Psychologist</span>
                                         </div>
                                     </div>
@@ -106,7 +106,7 @@
                                             </div>
                                         </div>
                                         <div class="team-info z1 bg-color5 position-relative w-100">
-                                            <h3 class="mb-0"><a href="team-detail.html" title="">Dr. Emma Scott</a></h3>
+                                            <h3 class="mb-0"><a href="team-detail.php" title="">Dr. Emma Scott</a></h3>
                                             <span class="d-block thm-clr">Founder CEO</span>
                                         </div>
                                     </div>
@@ -123,7 +123,7 @@
                                             </div>
                                         </div>
                                         <div class="team-info z1 bg-color5 position-relative w-100">
-                                            <h3 class="mb-0"><a href="team-detail.html" title="">Dr. Hekim Rswa</a></h3>
+                                            <h3 class="mb-0"><a href="team-detail.php" title="">Dr. Hekim Rswa</a></h3>
                                             <span class="d-block thm-clr">Sr. Psychologist</span>
                                         </div>
                                     </div>
@@ -140,7 +140,7 @@
                                             </div>
                                         </div>
                                         <div class="team-info z1 bg-color5 position-relative w-100">
-                                            <h3 class="mb-0"><a href="team-detail.html" title="">Dr. Tom Stewart</a></h3>
+                                            <h3 class="mb-0"><a href="team-detail.php" title="">Dr. Tom Stewart</a></h3>
                                             <span class="d-block thm-clr">Sr. Psychologist</span>
                                         </div>
                                     </div>
@@ -157,7 +157,7 @@
                                             </div>
                                         </div>
                                         <div class="team-info z1 bg-color5 position-relative w-100">
-                                            <h3 class="mb-0"><a href="team-detail.html" title="">Dr. Paul Ford</a></h3>
+                                            <h3 class="mb-0"><a href="team-detail.php" title="">Dr. Paul Ford</a></h3>
                                             <span class="d-block thm-clr">Sr. Psychologist</span>
                                         </div>
                                     </div>

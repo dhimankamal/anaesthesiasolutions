@@ -13,9 +13,9 @@
                         <div class="page-title-inner d-inline-block">
                             <h1 class="mb-0">Kate Morrison</h1>
                             <ol class="breadcrumb mb-0 justify-content-center">
-                                <li class="breadcrumb-item"><a href="index.html" title="">Home</a></li>
-                                <li class="breadcrumb-item"><a href="stories.html" title="">Stories Page</a></li>
-                                <li class="breadcrumb-item active">Kate Morrison</li>
+                                <li class="breadcrumb-item"><a href="index.php" title="">Home</a></li>
+                                <li class="breadcrumb-item"><a href="stories.php" title="">Stories Page</a></li>
+                                <li class="breadcrumb-item">Kate Morrison</li>
                             </ol>
                         </div>
                     </div><!-- Page Title Wrap -->
@@ -63,12 +63,12 @@
                                     <div class="widget-box v3 brd-rd10 bg-color6 services_widget overflow-hidden w-100">
                                         <h4 class="position-relative tit-shp thm-shp widget-title3">Our Services</h4>
                                         <ul class="mb-0 list-unstyled w-100">
-                                            <li><a href="service-detail.html" title="">Couple Counseling</a></li>
-                                            <li><a href="service-detail.html" title="">Family Problem</a></li>
-                                            <li><a href="service-detail.html" title="">Dating & Relation</a></li>
-                                            <li><a href="service-detail.html" title="">Anxiety Disorder</a></li>
-                                            <li><a href="service-detail.html" title="">Depression Problem</a></li>
-                                            <li><a href="service-detail.html" title="">Personal Meeting</a></li>
+                                            <li><a href="service-detail.php" title="">Couple Counseling</a></li>
+                                            <li><a href="service-detail.php" title="">Family Problem</a></li>
+                                            <li><a href="service-detail.php" title="">Dating & Relation</a></li>
+                                            <li><a href="service-detail.php" title="">Anxiety Disorder</a></li>
+                                            <li><a href="service-detail.php" title="">Depression Problem</a></li>
+                                            <li><a href="service-detail.php" title="">Personal Meeting</a></li>
                                         </ul>
                                     </div>
                                     <div class="widget-box v3 brd-rd10 bg-color6 instagram_widget overflow-hidden w-100">

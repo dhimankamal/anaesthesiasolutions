@@ -11,10 +11,10 @@
                     <div class="container">
                         <div class="page-title-wrap text-center w-100">
                             <div class="page-title-inner d-inline-block">
-                                <h1 class="mb-0">Gallery Style 1</h1>
+                                <h1 class="mb-0">Gallery</h1>
                                 <ol class="breadcrumb mb-0 justify-content-center">
-                                    <li class="breadcrumb-item"><a href="index.html" title="">Home</a></li>
-                                    <li class="breadcrumb-item active">Gallery Style 1</li>
+                                    <li class="breadcrumb-item"><a href="index.php" title="">Home</a></li>
+                                    <li class="breadcrumb-item">Gallery</li>
                                 </ol>
                             </div>
                         </div><!-- Page Title Wrap -->
@@ -125,7 +125,7 @@
                                     <div class="serv-box3 v2 d-flex flex-wrap align-items-center justify-content-center position-relative overflow-hidden text-center w-100">
                                         <div class="serv-info3 d-inline-block">
                                             <i class="flaticon-schizophrenia scndry-clr d-inline-block"></i>
-                                            <h3 class="mb-0"><a href="service-detail.html" title="">Troubling Emotions</a></h3>
+                                            <h3 class="mb-0"><a href="service-detail.php" title="">Troubling Emotions</a></h3>
                                         </div>
                                     </div>
                                 </div>
@@ -133,7 +133,7 @@
                                     <div class="serv-box3 v2 d-flex flex-wrap align-items-center justify-content-center position-relative overflow-hidden text-center w-100">
                                         <div class="serv-info3 d-inline-block">
                                             <i class="flaticon-individual scndry-clr d-inline-block"></i>
-                                            <h3 class="mb-0"><a href="service-detail.html" title="">Individual Counselling</a></h3>
+                                            <h3 class="mb-0"><a href="service-detail.php" title="">Individual Counselling</a></h3>
                                         </div>
                                     </div>
                                 </div>
@@ -141,7 +141,7 @@
                                     <div class="serv-box3 v2 d-flex flex-wrap align-items-center justify-content-center position-relative overflow-hidden text-center w-100">
                                         <div class="serv-info3 d-inline-block">
                                             <i class="flaticon-baby-boy scndry-clr d-inline-block"></i>
-                                            <h3 class="mb-0"><a href="service-detail.html" title="">Child Counselling</a></h3>
+                                            <h3 class="mb-0"><a href="service-detail.php" title="">Child Counselling</a></h3>
                                         </div>
                                     </div>
                                 </div>
@@ -149,7 +149,7 @@
                                     <div class="serv-box3 v2 d-flex flex-wrap align-items-center justify-content-center position-relative overflow-hidden text-center w-100">
                                         <div class="serv-info3 d-inline-block">
                                             <i class="flaticon-puzzle scndry-clr d-inline-block"></i>
-                                            <h3 class="mb-0"><a href="service-detail.html" title="">Personality Disorders</a></h3>
+                                            <h3 class="mb-0"><a href="service-detail.php" title="">Personality Disorders</a></h3>
                                         </div>
                                     </div>
                                 </div>
@@ -157,7 +157,7 @@
                                     <div class="serv-box3 v2 d-flex flex-wrap align-items-center justify-content-center position-relative overflow-hidden text-center w-100">
                                         <div class="serv-info3 d-inline-block">
                                             <i class="flaticon-group scndry-clr d-inline-block"></i>
-                                            <h3 class="mb-0"><a href="service-detail.html" title="">Group Counselling</a></h3>
+                                            <h3 class="mb-0"><a href="service-detail.php" title="">Group Counselling</a></h3>
                                         </div>
                                     </div>
                                 </div>
@@ -165,14 +165,14 @@
                                     <div class="serv-box3 v2 d-flex flex-wrap align-items-center justify-content-center position-relative overflow-hidden text-center w-100">
                                         <div class="serv-info3 d-inline-block">
                                             <i class="flaticon-women scndry-clr d-inline-block"></i>
-                                            <h3 class="mb-0"><a href="service-detail.html" title="">Couple Counselling</a></h3>
+                                            <h3 class="mb-0"><a href="service-detail.php" title="">Couple Counselling</a></h3>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div><!-- Services Wrap 3 -->
                         <div class="view-more mt-70 d-inline-block text-center w-100">
-                            <p class="mb-0">Want to search any other treatment? Explore <a class="simple-link scndry-clr d-inline-block" href="services.html" title="">More Treatments</a> section.</p>
+                            <p class="mb-0">Want to search any other treatment? Explore <a class="simple-link scndry-clr d-inline-block" href="services.php" title="">More Treatments</a> section.</p>
                         </div><!-- View More -->
                     </div>
                 </div>

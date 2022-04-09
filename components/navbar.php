@@ -21,7 +21,7 @@
                 <div class="container">
                     <div class="logo-contact-menu-inner d-flex flex-wrap align-items-center justify-content-between position-relative w-100">
                         <div class="logo v2 z1 scndry-bg position-absolute text-center">
-                            <h1 class="mb-0"><a class="d-block" href="index.html" title="Home"><img class="img-fluid" src="assets/images/logo3.png" alt="Logo" srcset="assets/images/retina-logo3.png"></a></h1>
+                            <h1 class="mb-0"><a class="d-block" href="index.php" title="Home"><img class="img-fluid" src="assets/images/logo3.png" alt="Logo" srcset="assets/images/retina-logo3.png"></a></h1>
                         </div><!-- Logo -->
                         <nav class="d-flex flex-wrap align-items-center justify-content-between w-100">
                             <div class="header-left">
@@ -31,7 +31,7 @@
                             </div>
                             <div class="header-right d-inline-flex flex-wrap align-items-center">
                                 <div class="header-contact position-relative text-color1"><i class="flaticon-telephone thm-clr position-absolute"></i><?php echo $Phone ; ?></div>
-                                <a class="thm-btn v2 thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="appointment.html" title=""><i class="flaticon-calendar"></i>Make An Appointment</a>
+                                <a class="thm-btn v2 thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="appointment.php" title=""><i class="flaticon-calendar"></i>Make An Appointment</a>
                             </div>
                         </nav><!-- Navigation -->
                     </div>
@@ -49,7 +49,7 @@
             <div class="container">
                 <div class="sticky-menu-inner d-flex flex-wrap align-items-center justify-content-between w-100">
                     <div class="logo">
-                        <h1 class="mb-0"><a class="d-block" href="index.html" title="Home"><img class="img-fluid" src="assets/images/logo.png" alt="Logo" srcset="assets/images/retina-logo.png"></a></h1>
+                        <h1 class="mb-0"><a class="d-block" href="index.php" title="Home"><img class="img-fluid" src="assets/images/logo.png" alt="Logo" srcset="assets/images/retina-logo.png"></a></h1>
                     </div><!-- Logo -->
                     <nav class="d-flex flex-wrap align-items-center justify-content-between">
                         <div class="header-left">
@@ -77,7 +77,7 @@
             </div>
             <div class="lg-mn">
                 <div class="logo">
-                    <h1 class="mb-0 d-block"><a href="index.html" title="Home"><img src="assets/images/logo.png" alt="Logo"></a></h1>
+                    <h1 class="mb-0 d-block"><a href="index.php" title="Home"><img src="assets/images/logo.png" alt="Logo"></a></h1>
                 </div>
                 <div class="rspn-cnt">
                     <span><i class="thm-clr far fa-envelope"></i><a href="mailto:info@youremailid.com" title="">info@youremailid.com</a></span>

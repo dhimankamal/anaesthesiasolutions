@@ -13,8 +13,8 @@
                         <div class="page-title-inner d-inline-block">
                             <h1 class="mb-0">Product Page</h1>
                             <ol class="breadcrumb mb-0 justify-content-center">
-                                <li class="breadcrumb-item"><a href="index.html" title="">Home</a></li>
-                                <li class="breadcrumb-item active">Product Page</li>
+                                <li class="breadcrumb-item"><a href="index.php" title="">Home</a></li>
+                                <li class="breadcrumb-item">Product Page</li>
                             </ol>
                         </div>
                     </div><!-- Page Title Wrap -->
@@ -30,11 +30,11 @@
                                 <div class="prod-box position-relative w-100">
                                     <div class="prod-img brd-rd5 position-relative overflow-hidden w-100">
                                         <img class="img-fluid w-100" src="assets/images/resources/prod-img1-1.jpg" alt="Product Image 1">
-                                        <a class="thm-bg z1 brd-rd5 text-center position-absolute" href="product-detail.html" title=""><i class="flaticon-shopping-basket"></i></a>
+                                        <a class="thm-bg z1 brd-rd5 text-center position-absolute" href="product-detail.php" title=""><i class="flaticon-shopping-basket"></i></a>
                                     </div>
                                     <div class="prod-info position-relative w-100">
                                         <span class="price z1 scndry-bg rounded-pill position-absolute text-center"><small>$</small>18.00</span>
-                                        <h3 class="mb-0"><a href="product-detail.html" title="">Dream Psychology</a></h3>
+                                        <h3 class="mb-0"><a href="product-detail.php" title="">Dream Psychology</a></h3>
                                         <span class="thm-clr d-block">Dr. Juger Top</span>
                                     </div>
                                 </div>
@@ -43,11 +43,11 @@
                                 <div class="prod-box position-relative w-100">
                                     <div class="prod-img brd-rd5 position-relative overflow-hidden w-100">
                                         <img class="img-fluid w-100" src="assets/images/resources/prod-img1-2.jpg" alt="Product Image 2">
-                                        <a class="thm-bg z1 brd-rd5 text-center position-absolute" href="product-detail.html" title=""><i class="flaticon-shopping-basket"></i></a>
+                                        <a class="thm-bg z1 brd-rd5 text-center position-absolute" href="product-detail.php" title=""><i class="flaticon-shopping-basket"></i></a>
                                     </div>
                                     <div class="prod-info position-relative w-100">
                                         <span class="price z1 scndry-bg rounded-pill position-absolute text-center"><small>$</small>26.00</span>
-                                        <h3 class="mb-0"><a href="product-detail.html" title="">Killer of Depression</a></h3>
+                                        <h3 class="mb-0"><a href="product-detail.php" title="">Killer of Depression</a></h3>
                                         <span class="thm-clr d-block">Dr. Juger Top</span>
                                     </div>
                                 </div>
@@ -56,11 +56,11 @@
                                 <div class="prod-box position-relative w-100">
                                     <div class="prod-img brd-rd5 position-relative overflow-hidden w-100">
                                         <img class="img-fluid w-100" src="assets/images/resources/prod-img1-3.jpg" alt="Product Image 3">
-                                        <a class="thm-bg z1 brd-rd5 text-center position-absolute" href="product-detail.html" title=""><i class="flaticon-shopping-basket"></i></a>
+                                        <a class="thm-bg z1 brd-rd5 text-center position-absolute" href="product-detail.php" title=""><i class="flaticon-shopping-basket"></i></a>
                                     </div>
                                     <div class="prod-info position-relative w-100">
                                         <span class="price z1 scndry-bg rounded-pill position-absolute text-center"><small>$</small>10.00</span>
-                                        <h3 class="mb-0"><a href="product-detail.html" title="">Thinking Fast</a></h3>
+                                        <h3 class="mb-0"><a href="product-detail.php" title="">Thinking Fast</a></h3>
                                         <span class="thm-clr d-block">Dr. Juger Top</span>
                                     </div>
                                 </div>
@@ -69,11 +69,11 @@
                                 <div class="prod-box position-relative w-100">
                                     <div class="prod-img brd-rd5 position-relative overflow-hidden w-100">
                                         <img class="img-fluid w-100" src="assets/images/resources/prod-img1-4.jpg" alt="Product Image 4">
-                                        <a class="thm-bg z1 brd-rd5 text-center position-absolute" href="product-detail.html" title=""><i class="flaticon-shopping-basket"></i></a>
+                                        <a class="thm-bg z1 brd-rd5 text-center position-absolute" href="product-detail.php" title=""><i class="flaticon-shopping-basket"></i></a>
                                     </div>
                                     <div class="prod-info position-relative w-100">
                                         <span class="price z1 scndry-bg rounded-pill position-absolute text-center"><small>$</small>10.00</span>
-                                        <h3 class="mb-0"><a href="product-detail.html" title="">Thinking Fast T2</a></h3>
+                                        <h3 class="mb-0"><a href="product-detail.php" title="">Thinking Fast T2</a></h3>
                                         <span class="thm-clr d-block">Dr. Juger Top</span>
                                     </div>
                                 </div>
@@ -82,11 +82,11 @@
                                 <div class="prod-box position-relative w-100">
                                     <div class="prod-img brd-rd5 position-relative overflow-hidden w-100">
                                         <img class="img-fluid w-100" src="assets/images/resources/prod-img1-5.jpg" alt="Product Image 5">
-                                        <a class="thm-bg z1 brd-rd5 text-center position-absolute" href="product-detail.html" title=""><i class="flaticon-shopping-basket"></i></a>
+                                        <a class="thm-bg z1 brd-rd5 text-center position-absolute" href="product-detail.php" title=""><i class="flaticon-shopping-basket"></i></a>
                                     </div>
                                     <div class="prod-info position-relative w-100">
                                         <span class="price z1 scndry-bg rounded-pill position-absolute text-center"><small>$</small>18.00</span>
-                                        <h3 class="mb-0"><a href="product-detail.html" title="">Dream Psychology 3</a></h3>
+                                        <h3 class="mb-0"><a href="product-detail.php" title="">Dream Psychology 3</a></h3>
                                         <span class="thm-clr d-block">Dr. Juger Top</span>
                                     </div>
                                 </div>
@@ -95,11 +95,11 @@
                                 <div class="prod-box position-relative w-100">
                                     <div class="prod-img brd-rd5 position-relative overflow-hidden w-100">
                                         <img class="img-fluid w-100" src="assets/images/resources/prod-img1-6.jpg" alt="Product Image 6">
-                                        <a class="thm-bg z1 brd-rd5 text-center position-absolute" href="product-detail.html" title=""><i class="flaticon-shopping-basket"></i></a>
+                                        <a class="thm-bg z1 brd-rd5 text-center position-absolute" href="product-detail.php" title=""><i class="flaticon-shopping-basket"></i></a>
                                     </div>
                                     <div class="prod-info position-relative w-100">
                                         <span class="price z1 scndry-bg rounded-pill position-absolute text-center"><small>$</small>26.00</span>
-                                        <h3 class="mb-0"><a href="product-detail.html" title="">Killer of Depression 2</a></h3>
+                                        <h3 class="mb-0"><a href="product-detail.php" title="">Killer of Depression 2</a></h3>
                                         <span class="thm-clr d-block">Dr. Juger Top</span>
                                     </div>
                                 </div>
@@ -108,11 +108,11 @@
                                 <div class="prod-box position-relative w-100">
                                     <div class="prod-img brd-rd5 position-relative overflow-hidden w-100">
                                         <img class="img-fluid w-100" src="assets/images/resources/prod-img1-7.jpg" alt="Product Image 7">
-                                        <a class="thm-bg z1 brd-rd5 text-center position-absolute" href="product-detail.html" title=""><i class="flaticon-shopping-basket"></i></a>
+                                        <a class="thm-bg z1 brd-rd5 text-center position-absolute" href="product-detail.php" title=""><i class="flaticon-shopping-basket"></i></a>
                                     </div>
                                     <div class="prod-info position-relative w-100">
                                         <span class="price z1 scndry-bg rounded-pill position-absolute text-center"><small>$</small>10.00</span>
-                                        <h3 class="mb-0"><a href="product-detail.html" title="">Thinking Fast B1</a></h3>
+                                        <h3 class="mb-0"><a href="product-detail.php" title="">Thinking Fast B1</a></h3>
                                         <span class="thm-clr d-block">Dr. Juger Top</span>
                                     </div>
                                 </div>
@@ -121,11 +121,11 @@
                                 <div class="prod-box position-relative w-100">
                                     <div class="prod-img brd-rd5 position-relative overflow-hidden w-100">
                                         <img class="img-fluid w-100" src="assets/images/resources/prod-img1-8.jpg" alt="Product Image 8">
-                                        <a class="thm-bg z1 brd-rd5 text-center position-absolute" href="product-detail.html" title=""><i class="flaticon-shopping-basket"></i></a>
+                                        <a class="thm-bg z1 brd-rd5 text-center position-absolute" href="product-detail.php" title=""><i class="flaticon-shopping-basket"></i></a>
                                     </div>
                                     <div class="prod-info position-relative w-100">
                                         <span class="price z1 scndry-bg rounded-pill position-absolute text-center"><small>$</small>10.00</span>
-                                        <h3 class="mb-0"><a href="product-detail.html" title="">Thinking Fast V2</a></h3>
+                                        <h3 class="mb-0"><a href="product-detail.php" title="">Thinking Fast V2</a></h3>
                                         <span class="thm-clr d-block">Dr. Juger Top</span>
                                     </div>
                                 </div>

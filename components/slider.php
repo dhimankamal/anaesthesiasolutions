@@ -10,7 +10,7 @@
                                     <h2 class="mb-0">Professional Psychology Therapy</h2>
                                     <p class="mb-0">Adipisicing elit sed dole there eiusmod tempor incididub labore dolore magna aliqua denim ads minim veniam quis nostrud.</p>
                                     <span class="feat-cap-time d-block"><span class="thm-clr d-inline-block">Every Week:</span> 9:00am to 5:00pm</span>
-                                    <a class="thm-btn v2 thm-bg brd-rd5 position-relative d-inline-block overflow-hidden" href="appointment.html" title="">Make An Appointment</a>
+                                    <a class="thm-btn v2 thm-bg brd-rd5 position-relative d-inline-block overflow-hidden" href="appointment.php" title="">Make An Appointment</a>
                                 </div>
                             </div>
                         </div>
@@ -22,7 +22,7 @@
                                     <h2 class="mb-0">Largest Mental Health Partner</h2>
                                     <p class="mb-0">Adipisicing elit sed dole there eiusmod tempor incididub labore dolore magna aliqua denim ads minim veniam quis nostrud.</p>
                                     <span class="feat-cap-time d-block"><span class="thm-clr d-inline-block">Every Week:</span> 9:00am to 5:00pm</span>
-                                    <a class="thm-btn v2 thm-bg brd-rd5 position-relative d-inline-block overflow-hidden" href="appointment.html" title="">Make An Appointment</a>
+                                    <a class="thm-btn v2 thm-bg brd-rd5 position-relative d-inline-block overflow-hidden" href="appointment.php" title="">Make An Appointment</a>
                                 </div>
                             </div>
                         </div>
@@ -34,7 +34,7 @@
                                     <h2 class="mb-0">Make Time For Yourself</h2>
                                     <p class="mb-0">Adipisicing elit sed dole there eiusmod tempor incididub labore dolore magna aliqua denim ads minim veniam quis nostrud.</p>
                                     <span class="feat-cap-time d-block"><span class="thm-clr d-inline-block">Every Week:</span> 9:00am to 5:00pm</span>
-                                    <a class="thm-btn v2 thm-bg brd-rd5 position-relative d-inline-block overflow-hidden" href="appointment.html" title="">Make An Appointment</a>
+                                    <a class="thm-btn v2 thm-bg brd-rd5 position-relative d-inline-block overflow-hidden" href="appointment.php" title="">Make An Appointment</a>
                                 </div>
                             </div>
                         </div>

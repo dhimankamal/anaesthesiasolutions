@@ -2056,7 +2056,7 @@ body.sticky .sticky-menu {
 /*===== Theme Button =====*/
 .thm-btn {
   font-size: .9375rem;
-  color: #000;
+  color: white;
   font-weight: 800;
   font-family: Nunito;
   text-transform: uppercase;
@@ -5013,7 +5013,7 @@ ol.breadcrumb li.breadcrumb-item + li.breadcrumb-item:before {
   -o-box-shadow: 0 0 4.6875rem rgba(0,0,0,.2);
   box-shadow: 0 0 4.6875rem rgba(0,0,0,.2);
 }
-.contact-info-box:hover > i {color: var(--color3);}
+.contact-info-box:hover > i {color: white; }
 .contact-info-box > i + span, 
 .contact-info-box > i + p {margin-top: 1.375rem;}
 .contact-info-box > span, 
@@ -5051,7 +5051,7 @@ ol.breadcrumb li.breadcrumb-item + li.breadcrumb-item:before {
 .social-links3.v2 > h3 {font-weight: 800;}
 .social-links3.v2 > a {background-color: rgba(0,0,0,.2);}
 .social-links3.v2 > a:hover, 
-.social-links3.v2 > a:focus {color: var(--color3);}
+.social-links3.v2 > a:focus {color: white;}
 .sec-title4 {margin-bottom: 2.0625rem;}
 .sec-title4-inner > h2 {
   font-size: 2.625rem;

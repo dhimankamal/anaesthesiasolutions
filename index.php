@@ -20,8 +20,8 @@
                             <p class="mb-0">Adipisicing elit sed dole there eiusmod tempor incididub labore dolore magna aliqua denim ads minim veniam quis nostrud.</p>
                         </div>
                         <div class="sec-title-btns d-inline-flex flex-wrap align-items-center">
-                            <a class="simple-link thm-clr d-inline-block" href="services.html" title="">More Services<i class="fas fa-caret-right"></i></a>
-                            <a class="thm-btn v2 thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="appointment.html" title="">Make An Appointment</a>
+                            <a class="simple-link thm-clr d-inline-block" href="services.php" title="">More Services<i class="fas fa-caret-right"></i></a>
+                            <a class="thm-btn v2 thm-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="appointment.php" title="">Make An Appointment</a>
                         </div>
                     </div><!-- Sec Title -->
                     <div class="serv-wrap2 res-row position-relative w-100">
@@ -30,10 +30,10 @@
                                 <div class="serv-box2 v2 position-relative w-100">
                                     <div class="serv-img2 brd-rd10 position-relative overflow-hidden w-100">
                                         <img class="img-fluid w-100" src="assets/images/resources/serv-img2-1.jpg" alt="Services Image 1">
-                                        <a class="position-absolute" href="service-detail.html" title=""><i class="flaticon-plus"></i></a>
+                                        <a class="position-absolute" href="service-detail.php" title=""><i class="flaticon-plus"></i></a>
                                     </div>
                                     <div class="serv-info2 w-100 position-absolute">
-                                        <h3 class="mb-0"><a href="service-detail.html" title="">Satisfied Services</a></h3>
+                                        <h3 class="mb-0"><a href="service-detail.php" title="">Satisfied Services</a></h3>
                                     </div>
                                 </div>
                             </div>
@@ -41,10 +41,10 @@
                                 <div class="serv-box2 v2 position-relative w-100">
                                     <div class="serv-img2 brd-rd10 position-relative overflow-hidden w-100">
                                         <img class="img-fluid w-100" src="assets/images/resources/serv-img2-2.jpg" alt="Services Image 2">
-                                        <a class="position-absolute" href="service-detail.html" title=""><i class="flaticon-plus"></i></a>
+                                        <a class="position-absolute" href="service-detail.php" title=""><i class="flaticon-plus"></i></a>
                                     </div>
                                     <div class="serv-info2 w-100 position-absolute">
-                                        <h3 class="mb-0"><a href="service-detail.html" title="">Dedicated Therapist</a></h3>
+                                        <h3 class="mb-0"><a href="service-detail.php" title="">Dedicated Therapist</a></h3>
                                     </div>
                                 </div>
                             </div>
@@ -52,10 +52,10 @@
                                 <div class="serv-box2 v2 position-relative w-100">
                                     <div class="serv-img2 brd-rd10 position-relative overflow-hidden w-100">
                                         <img class="img-fluid w-100" src="assets/images/resources/serv-img2-3.jpg" alt="Services Image 3">
-                                        <a class="position-absolute" href="service-detail.html" title=""><i class="flaticon-plus"></i></a>
+                                        <a class="position-absolute" href="service-detail.php" title=""><i class="flaticon-plus"></i></a>
                                     </div>
                                     <div class="serv-info2 w-100 position-absolute">
-                                        <h3 class="mb-0"><a href="service-detail.html" title="">Support Patients</a></h3>
+                                        <h3 class="mb-0"><a href="service-detail.php" title="">Support Patients</a></h3>
                                     </div>
                                 </div>
                             </div>
@@ -191,7 +191,7 @@
                                 <div class="serv-box3 d-flex flex-wrap align-items-center justify-content-center position-relative overflow-hidden text-center w-100">
                                     <div class="serv-info3 d-inline-block">
                                         <i class="flaticon-schizophrenia thm-clr d-inline-block"></i>
-                                        <h3 class="mb-0"><a href="service-detail.html" title="">Troubling Emotions</a></h3>
+                                        <h3 class="mb-0"><a href="service-detail.php" title="">Troubling Emotions</a></h3>
                                     </div>
                                 </div>
                             </div>
@@ -199,7 +199,7 @@
                                 <div class="serv-box3 d-flex flex-wrap align-items-center justify-content-center position-relative overflow-hidden text-center w-100">
                                     <div class="serv-info3 d-inline-block">
                                         <i class="flaticon-individual thm-clr d-inline-block"></i>
-                                        <h3 class="mb-0"><a href="service-detail.html" title="">Individual Counselling</a></h3>
+                                        <h3 class="mb-0"><a href="service-detail.php" title="">Individual Counselling</a></h3>
                                     </div>
                                 </div>
                             </div>
@@ -207,7 +207,7 @@
                                 <div class="serv-box3 d-flex flex-wrap align-items-center justify-content-center position-relative overflow-hidden text-center w-100">
                                     <div class="serv-info3 d-inline-block">
                                         <i class="flaticon-baby-boy thm-clr d-inline-block"></i>
-                                        <h3 class="mb-0"><a href="service-detail.html" title="">Child Counselling</a></h3>
+                                        <h3 class="mb-0"><a href="service-detail.php" title="">Child Counselling</a></h3>
                                     </div>
                                 </div>
                             </div>
@@ -215,7 +215,7 @@
                                 <div class="serv-box3 d-flex flex-wrap align-items-center justify-content-center position-relative overflow-hidden text-center w-100">
                                     <div class="serv-info3 d-inline-block">
                                         <i class="flaticon-puzzle thm-clr d-inline-block"></i>
-                                        <h3 class="mb-0"><a href="service-detail.html" title="">Personality Disorders</a></h3>
+                                        <h3 class="mb-0"><a href="service-detail.php" title="">Personality Disorders</a></h3>
                                     </div>
                                 </div>
                             </div>
@@ -223,7 +223,7 @@
                                 <div class="serv-box3 d-flex flex-wrap align-items-center justify-content-center position-relative overflow-hidden text-center w-100">
                                     <div class="serv-info3 d-inline-block">
                                         <i class="flaticon-group thm-clr d-inline-block"></i>
-                                        <h3 class="mb-0"><a href="service-detail.html" title="">Group Counselling</a></h3>
+                                        <h3 class="mb-0"><a href="service-detail.php" title="">Group Counselling</a></h3>
                                     </div>
                                 </div>
                             </div>
@@ -231,14 +231,14 @@
                                 <div class="serv-box3 d-flex flex-wrap align-items-center justify-content-center position-relative overflow-hidden text-center w-100">
                                     <div class="serv-info3 d-inline-block">
                                         <i class="flaticon-women thm-clr d-inline-block"></i>
-                                        <h3 class="mb-0"><a href="service-detail.html" title="">Couple Counselling</a></h3>
+                                        <h3 class="mb-0"><a href="service-detail.php" title="">Couple Counselling</a></h3>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div><!-- Services Wrap 3 -->
                     <div class="view-more mt-70 d-inline-block text-center w-100">
-                        <p class="mb-0">Want to search any other treatment? Explore <a class="simple-link thm-clr d-inline-block" href="services.html" title="">More Treatments</a> section.</p>
+                        <p class="mb-0">Want to search any other treatment? Explore <a class="simple-link thm-clr d-inline-block" href="services.php" title="">More Treatments</a> section.</p>
                     </div><!-- View More -->
                 </div>
             </div>
@@ -256,8 +256,8 @@
                                 <div class="find-thera-cap-inner">
                                     <h2 class="mb-0">Our Clinic Largest Private Mental Health Partner, With a Carefully Selected Nationwide Team</h2>
                                     <div class="btns-group d-inline-flex flex-wrap align-items-center w-100">
-                                        <a class="thm-btn v2 scndry-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="team.html" title="">Find A Therapist</a>
-                                        <a class="simple-link d-inline-block" href="contact.html" title="">CONTACT US NOW</a>
+                                        <a class="thm-btn v2 scndry-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="team.php" title="">Find A Therapist</a>
+                                        <a class="simple-link d-inline-block" href="contact.php" title="">CONTACT US NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -281,11 +281,11 @@
                             <div class="col-md-6 col-sm-6 col-lg-4">
                                 <div class="storie-box brd-rd10 overflow-hidden position-relative w-100">
                                     <div class="storie-img position-relative overflow-hidden w-100">
-                                        <a href="storie-detail.html" title=""><img class="img-fluid w-100" src="assets/images/resources/storie-img1-1.jpg" alt="Storie Image 1"></a>
+                                        <a href="storie-detail.php" title=""><img class="img-fluid w-100" src="assets/images/resources/storie-img1-1.jpg" alt="Storie Image 1"></a>
                                         <span class="position-absolute z1 thm-bg rounded-pill">Los Angeles CA</span>
                                     </div>
                                     <div class="storie-info bg-color6 w-100">
-                                        <h3 class="mb-0"><a href="storie-detail.html" title="">Robert Weston</a></h3>
+                                        <h3 class="mb-0"><a href="storie-detail.php" title="">Robert Weston</a></h3>
                                         <span class="d-block thm-clr">Psychodynamic Therapy</span>
                                     </div>
                                 </div>
@@ -293,11 +293,11 @@
                             <div class="col-md-6 col-sm-6 col-lg-4">
                                 <div class="storie-box brd-rd10 overflow-hidden position-relative w-100">
                                     <div class="storie-img position-relative overflow-hidden w-100">
-                                        <a href="storie-detail.html" title=""><img class="img-fluid w-100" src="assets/images/resources/storie-img1-2.jpg" alt="Storie Image 2"></a>
+                                        <a href="storie-detail.php" title=""><img class="img-fluid w-100" src="assets/images/resources/storie-img1-2.jpg" alt="Storie Image 2"></a>
                                         <span class="position-absolute z1 thm-bg rounded-pill">California</span>
                                     </div>
                                     <div class="storie-info bg-color6 w-100">
-                                        <h3 class="mb-0"><a href="storie-detail.html" title="">Kate Morrison</a></h3>
+                                        <h3 class="mb-0"><a href="storie-detail.php" title="">Kate Morrison</a></h3>
                                         <span class="d-block thm-clr">Couple Problem</span>
                                     </div>
                                 </div>
@@ -305,11 +305,11 @@
                             <div class="col-md-6 col-sm-6 col-lg-4">
                                 <div class="storie-box brd-rd10 overflow-hidden position-relative w-100">
                                     <div class="storie-img position-relative overflow-hidden w-100">
-                                        <a href="storie-detail.html" title=""><img class="img-fluid w-100" src="assets/images/resources/storie-img1-3.jpg" alt="Storie Image 3"></a>
+                                        <a href="storie-detail.php" title=""><img class="img-fluid w-100" src="assets/images/resources/storie-img1-3.jpg" alt="Storie Image 3"></a>
                                         <span class="position-absolute z1 thm-bg rounded-pill">Philadelphia</span>
                                     </div>
                                     <div class="storie-info bg-color6 w-100">
-                                        <h3 class="mb-0"><a href="storie-detail.html" title="">Elianna Edward</a></h3>
+                                        <h3 class="mb-0"><a href="storie-detail.php" title="">Elianna Edward</a></h3>
                                         <span class="d-block thm-clr">Mental Health</span>
                                     </div>
                                 </div>
@@ -317,7 +317,7 @@
                         </div>
                     </div><!-- Stories Wrap -->
                     <div class="view-more mt-70 d-inline-block text-center w-100">
-                        <p class="mb-0">Interested in reading? Explore <a class="simple-link thm-clr d-inline-block" href="stories.html" title="">More Stories</a> section.</p>
+                        <p class="mb-0">Interested in reading? Explore <a class="simple-link thm-clr d-inline-block" href="stories.php" title="">More Stories</a> section.</p>
                     </div><!-- View More -->
                 </div>
             </div>
@@ -358,7 +358,7 @@
                                             <span class="d-flex flex-wrap justify-content-between align-items-center w-100">Saturday - Sunday <i>09:00am - 05:00pm</i></span>
                                         </div>
                                         <div class="view-more mt-50 d-inline-block w-100">
-                                            <p class="mb-0">Want to Visit Our Clinic? Please <a class="simple-link thm-clr d-inline-block" href="contact.html" title="">Get In Touch</a> with us</p>
+                                            <p class="mb-0">Want to Visit Our Clinic? Please <a class="simple-link thm-clr d-inline-block" href="contact.php" title="">Get In Touch</a> with us</p>
                                         </div><!-- View More -->
                                     </div>
                                 </div>
@@ -383,14 +383,14 @@
                             <div class="col-md-6 col-sm-6 col-lg-4">
                                 <div class="news-box2 brd-rd10 position-relative overflow-hidden w-100">
                                     <div class="news-img2 position-relative overflow-hidden w-100">
-                                        <a href="blog-detail.html" title=""><img class="img-fluid w-100" src="assets/images/resources/news-img2-1.jpg" title="News Image 1"></a>
+                                        <a href="blog-detail.php" title=""><img class="img-fluid w-100" src="assets/images/resources/news-img2-1.jpg" title="News Image 1"></a>
                                     </div>
                                     <div class="news-info2 brd-rd10 bg-color6 position-relative w-100">
                                         <img class="authr-img z1 img-fluid rounded-circle position-absolute" src="assets/images/resources/authr-img2-1.jpg" alt="author Image 1">
-                                        <h3 class="mb-0"><a href="blog-detail.html" title="">Stop Using the Term Depression Casually</a></h3>
+                                        <h3 class="mb-0"><a href="blog-detail.php" title="">Stop Using the Term Depression Casually</a></h3>
                                         <ul class="meta mb-0 list-unstyled d-flex flex-wrap w-100">
-                                            <li class="thm-clr"><a href="archive.html" title="">Nov 15, 2020</a></li>
-                                            <li><a href="archive.html" title="">Thomas Smith</a></li>
+                                            <li class="thm-clr"><a href="archive.php" title="">Nov 15, 2020</a></li>
+                                            <li><a href="archive.php" title="">Thomas Smith</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -398,14 +398,14 @@
                             <div class="col-md-6 col-sm-6 col-lg-4">
                                 <div class="news-box2 brd-rd10 position-relative overflow-hidden w-100">
                                     <div class="news-img2 position-relative overflow-hidden w-100">
-                                        <a href="blog-detail.html" title=""><img class="img-fluid w-100" src="assets/images/resources/news-img2-2.jpg" title="News Image 2"></a>
+                                        <a href="blog-detail.php" title=""><img class="img-fluid w-100" src="assets/images/resources/news-img2-2.jpg" title="News Image 2"></a>
                                     </div>
                                     <div class="news-info2 brd-rd10 bg-color6 position-relative w-100">
                                         <img class="authr-img z1 img-fluid rounded-circle position-absolute" src="assets/images/resources/authr-img2-2.jpg" alt="author Image 2">
-                                        <h3 class="mb-0"><a href="blog-detail.html" title="">5 Fun Activities To Improve your Mental Health.</a></h3>
+                                        <h3 class="mb-0"><a href="blog-detail.php" title="">5 Fun Activities To Improve your Mental Health.</a></h3>
                                         <ul class="meta mb-0 list-unstyled d-flex flex-wrap w-100">
-                                            <li class="thm-clr"><a href="archive.html" title="">Aug 20, 2020</a></li>
-                                            <li><a href="archive.html" title="">Thomas Smith</a></li>
+                                            <li class="thm-clr"><a href="archive.php" title="">Aug 20, 2020</a></li>
+                                            <li><a href="archive.php" title="">Thomas Smith</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -413,14 +413,14 @@
                             <div class="col-md-6 col-sm-6 col-lg-4">
                                 <div class="news-box2 brd-rd10 position-relative overflow-hidden w-100">
                                     <div class="news-img2 position-relative overflow-hidden w-100">
-                                        <a href="blog-detail.html" title=""><img class="img-fluid w-100" src="assets/images/resources/news-img2-3.jpg" title="News Image 3"></a>
+                                        <a href="blog-detail.php" title=""><img class="img-fluid w-100" src="assets/images/resources/news-img2-3.jpg" title="News Image 3"></a>
                                     </div>
                                     <div class="news-info2 brd-rd10 bg-color6 position-relative w-100">
                                         <img class="authr-img z1 img-fluid rounded-circle position-absolute" src="assets/images/resources/authr-img2-3.jpg" alt="author Image 3">
-                                        <h3 class="mb-0"><a href="blog-detail.html" title="">The Most Fasicnating Exeperince To Overcome</a></h3>
+                                        <h3 class="mb-0"><a href="blog-detail.php" title="">The Most Fasicnating Exeperince To Overcome</a></h3>
                                         <ul class="meta mb-0 list-unstyled d-flex flex-wrap w-100">
-                                            <li class="thm-clr"><a href="archive.html" title="">Sep 10, 2020</a></li>
-                                            <li><a href="archive.html" title="">Thomas Smith</a></li>
+                                            <li class="thm-clr"><a href="archive.php" title="">Sep 10, 2020</a></li>
+                                            <li><a href="archive.php" title="">Thomas Smith</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -428,7 +428,7 @@
                         </div>
                     </div><!-- News Wrap -->
                     <div class="view-more mt-70 d-inline-block text-center w-100">
-                        <p class="mb-0">Interested in reading? Explore <a class="simple-link thm-clr d-inline-block" href="blog2.html" title="">The Blogging</a> section.</p>
+                        <p class="mb-0">Interested in reading? Explore <a class="simple-link thm-clr d-inline-block" href="blog2.php" title="">The Blogging</a> section.</p>
                     </div><!-- View More -->
                 </div>
             </div>

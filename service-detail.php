@@ -13,9 +13,9 @@
                         <div class="page-title-inner d-inline-block">
                             <h1 class="mb-0">Child Psychotherapy</h1>
                             <ol class="breadcrumb mb-0 justify-content-center">
-                                <li class="breadcrumb-item"><a href="index.html" title="">Home</a></li>
-                                <li class="breadcrumb-item"><a href="services.html" title="">Neurology Services</a></li>
-                                <li class="breadcrumb-item active">Child Psychotherapy</li>
+                                <li class="breadcrumb-item"><a href="index.php" title="">Home</a></li>
+                                <li class="breadcrumb-item"><a href="services.php" title="">Neurology Services</a></li>
+                                <li class="breadcrumb-item">Child Psychotherapy</li>
                             </ol>
                         </div>
                     </div><!-- Page Title Wrap -->
@@ -32,7 +32,7 @@
                                     <div class="post-feat-img serv-detail-img brd-rd10 position-relative overflow-hidden w-100">
                                         <img class="img-fluid w-100" src="assets/images/resources/service-detail-img.jpg" alt="Service Detail Image">
                                         <span class="brd-rd10 thm-bg serv-post-date position-absolute">Jan 20, 2021</span>
-                                        <span class="serv-post-authr position-absolute"><i class="fas fa-user thm-clr"></i><a href="archive.html" title="">James Smith</a></span>
+                                        <span class="serv-post-authr position-absolute"><i class="fas fa-user thm-clr"></i><a href="archive.php" title="">James Smith</a></span>
                                     </div>
                                     <div class="post-detail-meta-wrap d-flex flex-wrap justify-content-between align-items-center w-100">
                                         <ul class="meta3 mb-0 d-inline-flex flex-wrap list-unstyled">
@@ -82,12 +82,12 @@
                                     <div class="widget-box v3 brd-rd10 bg-color6 services_widget overflow-hidden w-100">
                                         <h4 class="position-relative tit-shp thm-shp widget-title3">Related Services</h4>
                                         <ul class="mb-0 list-unstyled w-100">
-                                            <li><a href="service-detail.html" title="">Couple Counseling</a></li>
-                                            <li><a href="service-detail.html" title="">Family Problem</a></li>
-                                            <li><a href="service-detail.html" title="">Dating & Relation</a></li>
-                                            <li><a href="service-detail.html" title="">Anxiety Disorder</a></li>
-                                            <li><a href="service-detail.html" title="">Depression Problem</a></li>
-                                            <li><a href="service-detail.html" title="">Personal Meeting</a></li>
+                                            <li><a href="service-detail.php" title="">Couple Counseling</a></li>
+                                            <li><a href="service-detail.php" title="">Family Problem</a></li>
+                                            <li><a href="service-detail.php" title="">Dating & Relation</a></li>
+                                            <li><a href="service-detail.php" title="">Anxiety Disorder</a></li>
+                                            <li><a href="service-detail.php" title="">Depression Problem</a></li>
+                                            <li><a href="service-detail.php" title="">Personal Meeting</a></li>
                                         </ul>
                                     </div>
                                     <div class="widget-box v3 brd-rd10 bg-color6 instagram_widget overflow-hidden w-100">

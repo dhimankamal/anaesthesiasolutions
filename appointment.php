@@ -13,8 +13,8 @@
                         <div class="page-title-inner d-inline-block">
                             <h1 class="mb-0">Make An Appointment</h1>
                             <ol class="breadcrumb mb-0 justify-content-center">
-                                <li class="breadcrumb-item"><a href="index.html" title="">Home</a></li>
-                                <li class="breadcrumb-item active">Make An Appointment</li>
+                                <li class="breadcrumb-item"><a href="index.php" title="">Home</a></li>
+                                <li class="breadcrumb-item">Make An Appointment</li>
                             </ol>
                         </div>
                     </div><!-- Page Title Wrap -->
@@ -30,7 +30,7 @@
                                 <div class="appointment-desc w-100">
                                     <h3 class="mb-0">Don't Hesitate, Contact Us</h3>
                                     <p class="mb-0">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.</p>
-                                    <a class="thm-btn scndry-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="contact.html" title="">Contact Us Now</a>
+                                    <a class="thm-btn scndry-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="contact.php" title="">Contact Us Now</a>
                                 </div>
                             </div>
                             <div class="col-md-7 col-sm-6 col-lg-7">
@@ -49,7 +49,7 @@
                                                         <span class="d-block">1 Space Available</span>
                                                     </div>
                                                     <div class="appointment-item-btn">
-                                                        <a class="thm-btn scndry-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="contact.html" title="">Book Now</a>
+                                                        <a class="thm-btn scndry-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="contact.php" title="">Book Now</a>
                                                     </div>
                                                 </div>
                                             </li>
@@ -61,7 +61,7 @@
                                                         <span class="d-block">1 Space Available</span>
                                                     </div>
                                                     <div class="appointment-item-btn">
-                                                        <a class="thm-btn scndry-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="contact.html" title="">Book Now</a>
+                                                        <a class="thm-btn scndry-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="contact.php" title="">Book Now</a>
                                                     </div>
                                                 </div>
                                             </li>
@@ -110,7 +110,7 @@
                                             <span class="d-flex flex-wrap justify-content-between align-items-center w-100">Saturday - Sunday <i>09:00am - 05:00pm</i></span>
                                         </div>
                                         <div class="view-more mt-50 d-inline-block w-100">
-                                            <p class="mb-0">Want to Visit Our Clinic? Please <a class="simple-link thm-clr d-inline-block" href="contact.html" title="">Get In Touch</a> with us</p>
+                                            <p class="mb-0">Want to Visit Our Clinic? Please <a class="simple-link thm-clr d-inline-block" href="contact.php" title="">Get In Touch</a> with us</p>
                                         </div><!-- View More -->
                                     </div>
                                 </div>

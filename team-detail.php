@@ -13,9 +13,9 @@
                         <div class="page-title-inner d-inline-block">
                             <h1 class="mb-0">Dr. Mary Joe</h1>
                             <ol class="breadcrumb mb-0 justify-content-center">
-                                <li class="breadcrumb-item"><a href="index.html" title="">Home</a></li>
-                                <li class="breadcrumb-item"><a href="team.html" title="">Psychiatrist Team</a></li>
-                                <li class="breadcrumb-item active">Dr. Mary Joe</li>
+                                <li class="breadcrumb-item"><a href="index.php" title="">Home</a></li>
+                                <li class="breadcrumb-item"><a href="team.php" title="">Psychiatrist Team</a></li>
+                                <li class="breadcrumb-item">Dr. Mary Joe</li>
                             </ol>
                         </div>
                     </div><!-- Page Title Wrap -->
@@ -70,19 +70,19 @@
                                             <div class="col-md-4 col-sm-4 col-lg-4">
                                                 <div class="feat-serv-box position-relative w-100">
                                                     <i class="flaticon-schizophrenia scndry-clr d-inline-block"></i>
-                                                    <h3 class="mb-0"><a href="service-detail.html" title="">Troubling Emotions</a></h3>
+                                                    <h3 class="mb-0"><a href="service-detail.php" title="">Troubling Emotions</a></h3>
                                                 </div>
                                             </div>
                                             <div class="col-md-4 col-sm-4 col-lg-4">
                                                 <div class="feat-serv-box position-relative w-100">
                                                     <i class="flaticon-individual scndry-clr d-inline-block"></i>
-                                                    <h3 class="mb-0"><a href="service-detail.html" title="">Individual Counselling</a></h3>
+                                                    <h3 class="mb-0"><a href="service-detail.php" title="">Individual Counselling</a></h3>
                                                 </div>
                                             </div>
                                             <div class="col-md-4 col-sm-4 col-lg-4">
                                                 <div class="feat-serv-box position-relative w-100">
                                                     <i class="flaticon-baby-boy-1 scndry-clr d-inline-block"></i>
-                                                    <h3 class="mb-0"><a href="service-detail.html" title="">Child Counselling</a></h3>
+                                                    <h3 class="mb-0"><a href="service-detail.php" title="">Child Counselling</a></h3>
                                                 </div>
                                             </div>
                                         </div>

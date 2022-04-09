@@ -13,8 +13,8 @@
                             <div class="page-title-inner d-inline-block">
                                 <h1 class="mb-0">Contact Us</h1>
                                 <ol class="breadcrumb mb-0 justify-content-center">
-                                    <li class="breadcrumb-item"><a href="index.html" title="">Home</a></li>
-                                    <li class="breadcrumb-item active">Contact Us</li>
+                                    <li class="breadcrumb-item"><a href="index.php" title="">Home</a></li>
+                                    <li class="breadcrumb-item">Contact Us</li>
                                 </ol>
                             </div>
                         </div><!-- Page Title Wrap -->
@@ -88,7 +88,7 @@
                     </div>
                 </div>
             </section>
-            <section>
+            <!-- <section>
                 <div class="w-100 pt-55 pb-55 position-relative">
                     <div class="container">
                         <ul class="spnsr-list d-flex flex-wrap justify-content-center align-items-center list-unstyled w-100">
@@ -112,10 +112,10 @@
                                     <a href="javascript:void(0);" title=""><img class="img-fluid" src="assets/images/resources/spnsr-img1-4.png" alt="Sponsor Image 4"></a>
                                 </div>
                             </li>
-                        </ul><!-- Sponsors List -->
+                        </ul>
                     </div>
                 </div>
-            </section>
+            </section> -->
             <?php include('./components/footer.php') ?>
     </main><!-- Main Wrapper -->
 
