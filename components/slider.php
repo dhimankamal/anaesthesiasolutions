@@ -3,7 +3,7 @@
                 <div class="feat-wrap2 position-relative w-100">
                     <div class="feat-caro2 w-100">
                         <div class="feat-item2 position-relative d-block w-100">
-                            <div class="feat-img position-relative d-block w-100" style="background-image: url(assets/images/resources/feat-img4.jpg);"></div>
+                            <div class="feat-img position-relative d-block w-100" style="background-image: url(assets/images/resources/feat-img2.jpg);"></div>
                             <div class="feat-cap2-wrap text-center d-flex flex-wrap justify-content-center position-absolute w-100">
                                 <div class="feat-cap2 d-inline-block w-100">
                                     <span class="d-block position-relative thm-clr">Medinova Hospital in California</span>
@@ -14,7 +14,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="feat-item2 position-relative d-block w-100">
+                        <!-- <div class="feat-item2 position-relative d-block w-100">
                             <div class="feat-img position-relative d-block w-100" style="background-image: url(assets/images/resources/feat-img3.jpg);"></div>
                             <div class="feat-cap2-wrap text-center d-flex flex-wrap justify-content-center position-absolute w-100">
                                 <div class="feat-cap2 d-inline-block w-100">
@@ -25,9 +25,9 @@
                                     <a class="thm-btn v2 thm-bg brd-rd5 position-relative d-inline-block overflow-hidden" href="appointment.php" title="">Make An Appointment</a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="feat-item2 position-relative d-block w-100">
-                            <div class="feat-img position-relative d-block w-100" style="background-image: url(assets/images/resources/feat-img2.jpg);"></div>
+                            <div class="feat-img position-relative d-block w-100" style="background-image: url(assets/images/resources/feat-img4.jpg);"></div>
                             <div class="feat-cap2-wrap text-center d-flex flex-wrap justify-content-center position-absolute w-100">
                                 <div class="feat-cap2 d-inline-block w-100">
                                     <span class="d-block position-relative thm-clr">Medinova Hospital in California</span>
