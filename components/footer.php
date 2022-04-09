@@ -58,11 +58,11 @@
         <div class="bottom-bar v2 w-100">
             <div class="container">
                 <div class="bottom-bar-inner d-flex flex-wrap align-items-center justify-content-between w-100">
-                    <div class="logo v2 z1 bg-color10 position-relative">
+                    <div class="logo v2 z1 scndry-bg position-relative">
                         <h1 class="mb-0"><a class="d-block" href="index.html" title="Home"><img class="img-fluid" src="assets/images/logo3.png" alt="Logo" srcset="assets/images/retina-logo3.png"></a></h1>
                     </div><!-- Logo -->
                     <div class="copyright-links d-inline-flex flex-wrap align-items-center justify-content-between">
-                        <p class="mb-0"><a href="index.html" title="Neurology">Neurology</a> - Copyright 2021. Design by </a></p>
+                        <p class="mb-0"><a href="index.html" title="Neurology">The Anaesthesia Solutions </a> - Copyright 2022. Design by Kamal </a></p>
                         <ul class="bottom-links d-flex flex-wrap justify-content-end mb-0 list-unstyled">
                             <li><a href="about.html" title="">About Us</a></li>
                             <li><a href="services.html" title="">Services</a></li>
