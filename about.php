@@ -60,7 +60,7 @@
                             <div class="col-md-12 col-sm-12 col-lg-6">
                                 <div class="about-desc w-100">
                                     <span class="thm-clr d-inline-block">STEPS TOWARDS MENTAL FITNESS</span>
-                                    <h2 class="mb-0">Best In Class <span>Psychiatric Therapy</span> Conducted</h2>
+                                    <h2 class="mb-0">Best In Class <span>Anesthesia Therapy</span> Conducted</h2>
                                     <strong>Ut enim adminim veniam, quis nostru exercitation ullamco lorem ipsum. Excepteur sint occaecat cupidatat.</strong>
                                     <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostru exercitation ullamco laboris nisi ut aliquip ex lorem ipsum.</p>
                                     <p class="mb-0">Excepteur sint occaecat cupidatat non proident, suntin culpa qui offic ia deserunt mollit anim id est laborum.</p>
@@ -219,7 +219,7 @@
                                         <div class="fact-box-inner">
                                             <span class="scndry-clr d-block"><i class="counter">30</i>+</span>
                                             <h4 class="mb-0">Medical Branches</h4>
-                                            <p class="mb-0">Psychiatric therapy conducted</p>
+                                            <p class="mb-0">Anesthesia therapy conducted</p>
                                         </div>
                                     </div>
                                     <div class="fact-box position-relative d-flex flex-wrap w-100">

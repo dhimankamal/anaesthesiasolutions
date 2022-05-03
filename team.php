@@ -234,7 +234,7 @@
                                             <div class="fact-box-inner">
                                                 <span class="scndry-clr d-block"><i class="counter">30</i>+</span>
                                                 <h4 class="mb-0">Medical Branches</h4>
-                                                <p class="mb-0">Psychiatric therapy conducted</p>
+                                                <p class="mb-0">Anesthesia therapy conducted</p>
                                             </div>
                                         </div>
                                         <div class="fact-box position-relative d-flex flex-wrap w-100">

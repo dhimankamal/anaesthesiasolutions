@@ -7,8 +7,8 @@
                             <div class="feat-cap2-wrap text-center d-flex flex-wrap justify-content-center position-absolute w-100">
                                 <div class="feat-cap2 d-inline-block w-100">
                                     <span class="d-block position-relative thm-clr">Medinova Hospital in California</span>
-                                    <h2 class="mb-0">Professional Psychology Therapy</h2>
-                                    <p class="mb-0">Adipisicing elit sed dole there eiusmod tempor incididub labore dolore magna aliqua denim ads minim veniam quis nostrud.</p>
+                                    <h2 class="mb-0">The service for  Anesthesia Quality </h2>
+                                    <p class="mb-0">The Anaesthesia solution for medical, surgical and physhetric procedure </p>
                                     <span class="feat-cap-time d-block"><span class="thm-clr d-inline-block">Every Week:</span> 9:00am to 5:00pm</span>
                                     <a class="thm-btn v2 thm-bg brd-rd5 position-relative d-inline-block overflow-hidden" href="appointment.php" title="">Make An Appointment</a>
                                 </div>
