@@ -60,9 +60,9 @@
                             <div class="col-md-12 col-sm-12 col-lg-6">
                                 <div class="about-desc w-100">
                                     <span class="thm-clr d-inline-block">STEPS TOWARDS MENTAL FITNESS</span>
-                                    <h2 class="mb-0">Best In Class <span>Anesthesia Therapy</span> Conducted</h2>
-                                    <strong>Ut enim adminim veniam, quis nostru exercitation ullamco lorem ipsum. Excepteur sint occaecat cupidatat.</strong>
-                                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostru exercitation ullamco laboris nisi ut aliquip ex lorem ipsum.</p>
+                                    <h2 class="mb-0">Anaesthesia Solutions is <span>Health care</span> Company</h2>
+                                    <strong>The Anaesthesia solutions is a health care company providing Anaesthesia and  critical core services in various private hospital in tricity</strong>
+                                    <p class="mb-0">It is largest group in Tricity working for last 30 years with around twenty Anesthesiologist  working with us. We provide services at Chandigarh Panchakula, Zirakpur and  Mohali.</p>
                                     <p class="mb-0">Excepteur sint occaecat cupidatat non proident, suntin culpa qui offic ia deserunt mollit anim id est laborum.</p>
                                     <span class="about-time d-block"><span class="thm-clr"><i class="flaticon-clock"></i>Visit Schedule:</span> Every Week Monday To Friday: 9:00am to 5:00pm</span>
                                 </div>

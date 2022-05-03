@@ -30,7 +30,7 @@ include('./components/common.php');
                     <div class="sec-title3 text-center w-100">
                         <div class="sec-title3-inner d-inline-block">
                             <h3 class="mb-0">Contact Information</h3>
-                            <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua invideo miror magis.</p>
+                            <p class="mb-0">We provide services at Chandigarh Panchakula, Zirakpur and  Mohali.</p>
                         </div>
                     </div>
                     <div class="contact-info-wrap text-center position-relative w-100">
