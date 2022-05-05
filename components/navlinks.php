@@ -24,12 +24,12 @@
                 <li><a href="storie-detail.php" title="">Story Details</a></li>
             </ul>
         </li>
-        <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Our Team</a>
+        <!-- <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Our Team</a>
             <ul class="mb-0 list-unstyled">
                 <li><a href="team.php" title="">Team</a></li>
                 <li><a href="team-detail.php" title="">Team Detail</a></li>
             </ul>
-        </li>
+        </li> -->
         <!-- <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Our Courses</a>
             <ul class="mb-0 list-unstyled">
                 <li><a href="courses.php" title="">Courses</a></li>
@@ -43,11 +43,12 @@
         <li><a href="404.php" title="">404 Error Page</a></li> -->
     </ul>
 </li>
-<li class="menu-item-has-children"><a href="javascript:void(0);" title="">Products</a>
+<!-- <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Products</a>
     <ul class="mb-0 list-unstyled">
         <li><a href="products.php" title="">Products</a></li>
         <li><a href="product-detail.php" title="">Product Detail</a></li>
     </ul>
-</li>
+</li> -->
+<li><a href="team.php" title="">Our Team</a></li>
 <li><a href="about.php" title="">About</a></li>
 <li><a href="contact.php" title="">Contact</a></li>
