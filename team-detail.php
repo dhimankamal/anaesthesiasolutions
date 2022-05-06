@@ -1,4 +1,12 @@
-<?php include('./components/header.php') ?>
+<?php include('./components/header.php');
+include('./components/doctorlist.php');
+
+$url = $_SERVER['REQUEST_URI'];
+$url_components = parse_url($url);
+parse_str($url_components['query'], $params);
+      
+$x = $params['ref'];
+?>
 
 <body>
     <main>
@@ -11,11 +19,11 @@
                 <div class="container">
                     <div class="page-title-wrap text-center w-100">
                         <div class="page-title-inner d-inline-block">
-                            <h1 class="mb-0">Dr. Mary Joe</h1>
+                            <h1 class="mb-0"><?php echo $docter[$x]->name;?></h1>
                             <ol class="breadcrumb mb-0 justify-content-center">
                                 <li class="breadcrumb-item"><a href="index.php" title="">Home</a></li>
-                                <li class="breadcrumb-item"><a href="team.php" title="">Psychiatrist Team</a></li>
-                                <li class="breadcrumb-item">Dr. Mary Joe</li>
+                                <li class="breadcrumb-item"><a href="team.php" title="">Anesthesia Team</a></li>
+                                <li class="breadcrumb-item"><?php echo $docter[$x]->name;?></li>
                             </ol>
                         </div>
                     </div><!-- Page Title Wrap -->
@@ -31,7 +39,7 @@
                                 <div class="team-detail-img position-relative w-100">
                                     <img class="img-fluid brd-rd5 w-100" src="assets/images/resources/team-detail-img.jpg" alt="Team Detail Image">
                                     <div class="team-detail-info z1 bg-color5 position-relative w-100">
-                                        <h3 class="mb-0">Dr. Mary Joe</h3>
+                                        <h3 class="mb-0"><?php echo $docter[$x]->name;?></h3>
                                         <span class="d-block position-relative thm-clr">Founder CEO</span>
                                         <ul class="team-detail-info-meta mb-0 list-unstyled w-100">
                                             <li><i class="flaticon-email"></i><a href="mailto:maryjoe@gmail.com" title="">maryjoe@gmail.com</a></li>
@@ -161,34 +169,7 @@
                 </div>
             </div>
         </section>
-        <section>
-            <div class="w-100 pt-55 pb-55 position-relative">
-                <div class="container">
-                    <ul class="spnsr-list d-flex flex-wrap justify-content-center align-items-center list-unstyled w-100">
-                        <li>
-                            <div class="spnsr-box text-center w-100">
-                                <a href="javascript:void(0);" title=""><img class="img-fluid" src="assets/images/resources/spnsr-img1-1.png" alt="Sponsor Image 1"></a>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="spnsr-box text-center w-100">
-                                <a href="javascript:void(0);" title=""><img class="img-fluid" src="assets/images/resources/spnsr-img1-2.png" alt="Sponsor Image 2"></a>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="spnsr-box text-center w-100">
-                                <a href="javascript:void(0);" title=""><img class="img-fluid" src="assets/images/resources/spnsr-img1-3.png" alt="Sponsor Image 3"></a>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="spnsr-box text-center w-100">
-                                <a href="javascript:void(0);" title=""><img class="img-fluid" src="assets/images/resources/spnsr-img1-4.png" alt="Sponsor Image 4"></a>
-                            </div>
-                        </li>
-                    </ul><!-- Sponsors List -->
-                </div>
-            </div>
-        </section>
+
         <?php include('./components/footer.php');  ?>
 
     </main><!-- Main Wrapper -->
